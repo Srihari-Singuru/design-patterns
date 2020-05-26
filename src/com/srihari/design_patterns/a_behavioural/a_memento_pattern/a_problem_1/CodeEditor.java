@@ -1,4 +1,4 @@
-package com.srihari.design_patterns.a_behavioural.a_memento_pattern.a_problem;
+package com.srihari.design_patterns.a_behavioural.a_memento_pattern.a_problem_1;
 
 public class CodeEditor {
     private String content;

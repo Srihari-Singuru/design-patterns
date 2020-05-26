@@ -1,4 +1,4 @@
-package com.srihari.design_patterns.a_behavioural.a_memento_pattern.a_problem;
+package com.srihari.design_patterns.a_behavioural.a_memento_pattern.a_problem_1;
 
 /**
  * we use this pattern to implement the undo mechanism

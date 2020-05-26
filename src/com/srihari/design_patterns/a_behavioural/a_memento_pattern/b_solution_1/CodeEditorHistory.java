@@ -1,4 +1,4 @@
-package com.srihari.design_patterns.a_behavioural.a_memento_pattern.b_solution;
+package com.srihari.design_patterns.a_behavioural.a_memento_pattern.b_solution_1;
 
 import java.util.Stack;
 
