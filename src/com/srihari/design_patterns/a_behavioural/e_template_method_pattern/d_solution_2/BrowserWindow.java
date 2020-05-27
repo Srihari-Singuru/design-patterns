@@ -3,7 +3,7 @@ package com.srihari.design_patterns.a_behavioural.e_template_method_pattern.d_so
 public class BrowserWindow extends Window {
     @Override
     protected void onClosing() {
-        System.out.println("Browser wndow on closing");
+        System.out.println("Browser window on closing");
     }
 
     @Override

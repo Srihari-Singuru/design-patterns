@@ -9,7 +9,7 @@ public abstract class Window {
         onClosed();
     }
 
-    protected abstract void onClosing();
+    protected abstract void onClosing();    // we can even provide some default implementation for these methods
 
     protected abstract void onClosed();
 }
