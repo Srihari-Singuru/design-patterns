@@ -1,6 +1,6 @@
-package com.srihari.design_patterns.a_behavioural.f_command_pattern.c_composite_commands;
+package com.srihari.design_patterns.a_behavioural.f_command_pattern.c_composite_command;
 
-import com.srihari.design_patterns.a_behavioural.f_command_pattern.c_composite_commands.framework.ICommand;
+import com.srihari.design_patterns.a_behavioural.f_command_pattern.c_composite_command.framework.ICommand;
 
 import java.util.LinkedList;
 import java.util.List;
